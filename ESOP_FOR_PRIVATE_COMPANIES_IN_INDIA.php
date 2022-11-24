@@ -20,7 +20,7 @@
 
 <section class="page-title page-title-13" id="page-title">
     <div class="page-title-wrap bg-overlay bg-overlay-dark-3">
-        <div class="bg-section"><img src="assets/images/page-titles/13.jpg" alt="Background" /></div>
+        <div class="bg-section"><img src="assets/images/page-titles/ESOP1.jpg" alt="Background" /></div>
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-6 offset-lg-3">

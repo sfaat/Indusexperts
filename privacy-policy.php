@@ -18,6 +18,26 @@
     </div><a class="module-cancel" href="#"><i class="fas fa-times"></i></a>
 </div>
 
+<section class="page-title page-title-13" id="page-title">
+    <div class="page-title-wrap bg-overlay bg-overlay-dark-3">
+        <div class="bg-section"><img src="assets/images/page-titles/privacy.jpg" alt="Background" /></div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-6 offset-lg-3">
+                    <div class="title text-center">
+                        <h1 class="title-heading"></h1>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
 
 
 
