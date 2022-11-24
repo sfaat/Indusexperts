@@ -86,7 +86,7 @@
 
 </footer>
 
-<div class="back-top" id="back-to-top" data-hover=""><i class="energia-arrow-up"></i></div>
+<div class="back-top" id="back-to-top" data-hover="" style="height: 100px;"><i class="energia-arrow-up"></i></div>
 </div>
 
 <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
