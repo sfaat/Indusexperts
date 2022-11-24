@@ -36,7 +36,7 @@
                                 <li class="phone text-white" style="font-size: 18px; font-weight: bolder;">+911204978762, +91 9871287447</li>
                                 <li class="email" style="font-size: 18px;">Email: info@indusexperts.com</li>
                                 <li class="address" style="font-size: 25px;">
-                                    <p style="font-size: 14px; line-height: 0px;">147, B Tower, I-them Building, Sector-62, Noida, UP 201301, IN</p>
+                                    <p style="font-size: 14px; line-height: 0px;">147, B Tower, I-thum Building, Sector-62, Noida, UP 201301, IN</p>
                                 </li>
                                 
                             </ul>

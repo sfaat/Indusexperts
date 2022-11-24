@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-12 col-lg-6 offset-lg-3">
                     <div class="title text-center">
-                        <h1 class="title-heading">our blog</h1>
+                        <h1 class="title-heading">ESOP FOR PRIVATE COMPANIES IN INDIA</h1>
                     </div>
 
                 </div>

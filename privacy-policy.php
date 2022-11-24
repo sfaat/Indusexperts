@@ -18,29 +18,12 @@
     </div><a class="module-cancel" href="#"><i class="fas fa-times"></i></a>
 </div>
 
-<section class="page-title page-title-13" id="page-title">
-    <div class="page-title-wrap bg-overlay bg-overlay-dark-3">
-        <div class="bg-section"><img src="assets/images/page-titles/13.jpg" alt="Background" /></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-lg-6 offset-lg-3">
-                    <div class="title text-center">
-                        <h1 class="title-heading"></h1>
-                    </div>
 
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-</section>
 
 
 <section class="py-2 my-1">
     <div class="container">
-
+        <h4 class="text-center m-2">Privacy Policy</h4>
         <div class="col-lg-12 ">
             <p class="my-1 py-1" style="text-align: justify;">We are a customer-focused organisation that values the trust you place in us. That is why we place a premium on high-quality standards for safe and secure transactions, as well as customer data privacy. Please read the following statement to learn about our practises for gathering and disseminating information.</p>
 
@@ -78,9 +61,6 @@
 
 
             </ul>
-
-
-
         </div>
 
         <div class="col-lg-12 col-sm-12 py-1 my-1">

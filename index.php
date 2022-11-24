@@ -252,7 +252,7 @@
                     <div class="w3-card-4" style="width:95%">
                         <img src="assets/images/blog/grid/1.jpg" alt="Alps" style="width:100%">
                         <div class="w3-container w3-center">
-                            <p class="text-dark py-2" style="font-size: 25px;">CRYPTO COMPLIANCES</p>
+                            <p class="text-dark py-2" style="font-size: 25px;"> VDA COMPLIANCES</p>
                         </div>
                     </div>
                 </div>
